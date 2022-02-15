@@ -1,0 +1,9 @@
+Tässä tiedot vanhentuneista käyttäjistä. Tiedot ovat muodossa 'username, name, email,created, expired' 
+ 
+jdoe John Doe  "John.Doe@bogusemail.com" 2021-06-16 2022-01-01
+ASD Testi Teppo  "asdasd@asdad.asdasd" 2020-06-16 2021-01-01
+
+Levytilan käyttö:
+Yhteensä: 18 GB
+Käytetty: 4 GB
+Vapaana: 12 GB
